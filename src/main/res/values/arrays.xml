@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hpmissionheading_item">
+        <item>背向运动方向</item>
+        <item>面向运动方向</item>
+        <item>背向圆心方向 </item>
+        <item>手柄控制方向 </item>
+        <item>面向圆心方向 </item>
+        <item>使用初始化时方向</item>
+    </string-array>
+</resources>

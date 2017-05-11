@@ -1,0 +1,7 @@
+#Thu May 11 09:45:05 CST 2017
+base.0=E\:\\Android-VideoStreamDecodingSample-master\\android-videostreamdecodingsample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89cf68462ce7dd7bf0377214ffe8c40d488617fc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android-VideoStreamDecodingSample-master\\android-videostreamdecodingsample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9ce0ad94928aa7f1c62c889eed56c43df0867851\\classes.dex
+base.1=E\:\\Android-VideoStreamDecodingSample-master\\android-videostreamdecodingsample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9ce0ad94928aa7f1c62c889eed56c43df0867851
+file.0=E\:\\Android-VideoStreamDecodingSample-master\\android-videostreamdecodingsample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89cf68462ce7dd7bf0377214ffe8c40d488617fc\\classes.dex

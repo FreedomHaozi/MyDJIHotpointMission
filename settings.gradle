@@ -1,0 +1,2 @@
+include ':dJISDKLIB'
+include ':openCVLibrary249'
